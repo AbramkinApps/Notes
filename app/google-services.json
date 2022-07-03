@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833213916851",
+    "firebase_url": "https://notes-b9272-default-rtdb.firebaseio.com",
+    "project_id": "notes-b9272",
+    "storage_bucket": "notes-b9272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833213916851:android:d07665e836fcbbe749f2c6",
+        "android_client_info": {
+          "package_name": "com.abramkinapps.android.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833213916851-3uvlo16lpotkejnhtm8sc46ri0cvsrc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2oHoXx7BU-N8Df1jgKdErpve4kFhJ29Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833213916851-3uvlo16lpotkejnhtm8sc46ri0cvsrc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
